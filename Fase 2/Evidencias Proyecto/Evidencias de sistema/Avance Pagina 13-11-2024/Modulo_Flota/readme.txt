@@ -42,10 +42,10 @@ Supervisor:
 
  NUEVO MODULO:
 * Hacer actualizar perfil ✅
-* Agregar auditorias por vehiculo.
+* Agregar auditorias por vehiculo.✅
 
 Extras:
-* Cambiar fechas a formato chileno en artas partes de la pagina.
-* Hacer que al registrar cuenta , al elejir el usuario poder buscar mediante escritura igual.
-* Que en el panel de reportes se pueda ver quienes son las personas que tienen a cargo los supervisores
+* Cambiar fechas a formato chileno en artas partes de la pagina.✅
+* Hacer que al registrar cuenta , al elejir el usuario poder buscar mediante escritura igual.✅
+* Que en el panel de reportes se pueda ver quienes son las personas que tienen a cargo los supervisores✅
 * Hacer descargas de excel de listado de vehiculos, personal y reporteria. ✅
